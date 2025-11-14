@@ -67,7 +67,7 @@
   </style>
 </head>
 <body>
-  <h2 style="text-align:center; color:#3f51b5;">Online Schedule App: A Busy Day</h2>
+  <h2 style="text-align:center; color:#3f51b5;"> a busy day</h2>
   <table>
     <thead>
       <tr>
@@ -77,52 +77,52 @@
     </thead>
     <tbody>
       <tr>
-        <td class="time-col">6:30 AM</td>
-        <td>Wake Up &amp; Morning Stretch</td>
-      </tr>
-      <tr>
-        <td class="time-col">7:00 AM</td>
-        <td>Make &amp; Eat Breakfast</td>
-      </tr>
-      <tr>
-        <td class="time-col">8:00 AM</td>
-        <td>Walk the Dog</td>
+<td class="time-col">7:00 AM</td>
+        <td>Wake Up &amp; wake up</td>
+</tr>
+<tr>
+<td class="time-col">7:30 AM</td>
+<td>Make &amp; Eat Breakfast</td>
+</tr>
+<tr>
+<td class="time-col">8:00 AM</td>
+        <td>start school</td>
       </tr>
       <tr>
         <td class="time-col">9:00 AM</td>
-        <td>Team Standup Zoom Meeting</td>
+        <td>finish book repot</td>
       </tr>
       <tr>
-        <td class="time-col">10:30 AM</td>
-        <td>Client Emails &amp; Project Tasks</td>
+        <td class="time-col">10:00 AM</td>
+        <td>Client work on wvs</td>
       </tr>
       <tr class="lunch-row">
         <td class="time-col">12:00 PM</td>
-        <td>Lunch Break (Chicken Salad &amp; Read News)</td>
+        <td>eat lunch</td>
       </tr>
       <tr>
         <td class="time-col">1:00 PM</td>
-        <td>Grocery Shopping</td>
+        <td>work on math</td>
       </tr>
       <tr>
-        <td class="time-col">2:30 PM</td>
-        <td>Code Review for Online Schedule App</td>
+        <td class="time-col">3:00 PM</td>
+        <td>wrap up school</td>
       </tr>
       <tr>
         <td class="time-col">4:00 PM</td>
-        <td>Doctor's Appointment</td>
+        <td>do chores</td>
       </tr>
       <tr>
         <td class="time-col">6:00 PM</td>
-        <td>Dinner with Family</td>
+        <td>eat dinner</td>
       </tr>
       <tr>
-        <td class="time-col">8:00 PM</td>
-        <td>Online Yoga Class</td>
+        <td class="time-col">7:00 PM</td>
+        <td>read a book</td>
       </tr>
       <tr>
-        <td class="time-col">9:30 PM</td>
-        <td>Plan Next Day &amp; Relax</td>
+        <td class="time-col">9:00 PM</td>
+        <td>go to bed</td>
       </tr>
     </tbody>
   </table>
