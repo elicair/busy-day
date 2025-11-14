@@ -78,11 +78,11 @@ background-color: #7986cb;
 <tbody>
 <tr>
 <td class="time-col">7:00 AM</td>
-<td>Wake Up &amp; wake up</td>
+<td>Wake Up</td>
 </tr>
 <tr>
 <td class="time-col">7:30 AM</td>
-<td>Make &amp; Eat Breakfast</td>
+<td> Eat Breakfast</td>
 </tr>
 <tr>
 <td class="time-col">8:00 AM</td>
@@ -90,7 +90,7 @@ background-color: #7986cb;
 </tr>
 <tr>
 <td class="time-col">9:00 AM</td>
-<td>finish book repot</td>
+<td>finish book report</td>
 </tr>
 <tr>
 <td class="time-col">10:00 AM</td>
